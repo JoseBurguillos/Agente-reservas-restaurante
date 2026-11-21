@@ -1,0 +1,8 @@
+# Entorno virtual
+.venv/
+
+# Caché de Python
+__pycache__/
+
+# Base de datos: se genera con `python crear_db.py`
+restaurante.db
